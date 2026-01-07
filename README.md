@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem vindo a *wired* (^_^)
 
 <!--
 **microonda/microonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>⏳ Principais Tecnologias:</h1>
-  </br></br></br>
-
+  </br></br>
   ![java](https://img.shields.io/badge/java-00599c?style=for-the-badge&logo=java%2B%2B)
   ![c](https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c)
   ![markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown)
@@ -45,4 +44,4 @@ Here are some ideas to get you started:
   ![youtubemusic](https://img.shields.io/badge/youtube%20music-ff0000?style=for-the-badge&logo=youtubemusic)
   ![startrek](https://img.shields.io/badge/star%20trek-ffe200?style=for-the-badge&logo=startrek&logoColor=black)
   
-  </br></br></br>
+  </br></br>
