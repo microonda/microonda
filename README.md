@@ -39,7 +39,6 @@ Here are some ideas to get you started:
   ![linux](https://img.shields.io/badge/linux-fcc624?style=for-the-badge&logo=linux&logoColor=white)
   ![raspberrypi](https://img.shields.io/badge/raspberrypi-a22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
   ![steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam)
-  ![dnd](https://img.shields.io/badge/dungeons&amp;dragons-ed1c24?style=for-the-badge&logo=dungeonsanddragons)
   ![youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube)
   ![youtubemusic](https://img.shields.io/badge/youtube%20music-ff0000?style=for-the-badge&logo=youtubemusic)
   ![startrek](https://img.shields.io/badge/star%20trek-ffe200?style=for-the-badge&logo=startrek&logoColor=black)
