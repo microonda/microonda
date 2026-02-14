@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
   ## Me chamo Felipe
   
-  ### Engenheiro de Dados · Indicadores · Dashboards · Códigos · Automações
+  ### Indicadores · Dashboards · Códigos · Automações
   <BR>
   <h2>⏳ Principais Tecnologias:</h2>
   
