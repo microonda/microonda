@@ -36,8 +36,6 @@
   
 -->
 
-  ## Me chamo Felipe
-  
   ### Indicadores · Dashboards · Códigos · Automações
   <BR>
   <h2>⏳ Principais Tecnologias:</h2>
