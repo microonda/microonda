@@ -56,6 +56,17 @@
   ![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)
 
 
+  ## Dados & Cloud
+  
+  ![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel)
+  ![AWS](https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazonaws)
+  ![SQL](https://img.shields.io/badge/sql-4479a1?style=for-the-badge&logo=sql)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+  ![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
+  ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+
+  
   ## Ferramentas & Versionamento
 
   ![visualstudio](https://img.shields.io/badge/visual_studio-5c2d91?style=for-the-badge&logo=visualstudio)
@@ -73,13 +84,4 @@
   ![arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
   
   
-  ## Dados & Cloud
-  
-  ![Excel](https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoft-excel)
-  ![AWS](https://img.shields.io/badge/aws-232f3e?style=for-the-badge&logo=amazonaws)
-  ![SQL](https://img.shields.io/badge/sql-4479a1?style=for-the-badge&logo=sql)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-  ![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
-  ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
