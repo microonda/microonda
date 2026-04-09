@@ -83,11 +83,3 @@
   ![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)
   ![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
 
-  
-  ## Dados & AWS (Experiência Profissional)
-  
-  🌐 **Data Lake**: S3 como repositório central de dados<br>
-  🏢 **Data Warehouse**: Redshift para análises estruturadas e relatórios financeiros<br>
-  🔄 **ETL**: Glue e Step Functions para integração e transformação de dados (ETL)<br>
-  📊 **Análise & BI**: Athena, Power BI e Pandas para consultas e dashboards<br>
-  🤖 **Inteligência Artificial**: AWS Bedrock e AWS Sagemaker para modelos de IA
