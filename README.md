@@ -53,6 +53,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
   ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)
+  
   Fortran é essencial. A linguagem de programação perfeita para realizar cálculos de matemática discreta.
 
 
