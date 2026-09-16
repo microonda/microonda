@@ -47,13 +47,13 @@
   ![pyspark](https://img.shields.io/badge/pyspark-e25a1c?style=for-the-badge&logo=apachespark)
   ![lua](https://img.shields.io/badge/lua-2c2d72?style=for-the-badge&logo=lua)
   ![C](https://img.shields.io/badge/c-00599c?style=for-the-badge&logo=c)
-  ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
   ![java](https://img.shields.io/badge/java-00599c?style=for-the-badge&logo=openjdk)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
   ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
   ![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)
+  Fortran é essencial. A linguagem de programação perfeita para realizar cálculos de matemática discreta.
 
 
   ## Dados & Cloud
